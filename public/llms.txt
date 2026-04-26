@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover Vivato Jewelry&#39;s stunning collection of lab-grown diamonds and fine jewelry. Ethical, radiant, and priced to impress — shop luxury jewelry that rivals blue nile engagement rings today.
+
+### Why Lab-Grown
+https://example.com/why-lab-grown
+Ritani lab grown diamonds meet their match. Explore why lab-grown diamonds are the smarter, more ethical choice — same brilliance, zero compromise, and a fraction of the cost of mined stones.
+
+### Our Story
+https://example.com/our-story
+Meet the visionaries behind Vivato Jewelry. Our story is rooted in making luxury jewelry accessible and ethical — inspired by icons like frank ocean jewelry culture and modern conscious living.
+
+### Contact
+https://example.com/contact
+Have questions about our lab-grown diamonds or need help finding the perfect piece? Reach out to Vivato Jewelry — we rival blue nile engagement rings in quality and are ready to guide your journey.
+
+### Products
+https://example.com/products
+Our Products - Vivato Jewelry
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Vivato Jewelry
+
+### Category
+https://example.com/category/:slug
+Products - Vivato Jewelry
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
