@@ -2169,20 +2169,12 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   box-shadow: none;
 }
 
-/* ── Scrim Overlay ── */
 .home-hero-section .home-hero-scrim {
   position: absolute;
   inset: 0;
   z-index: 1;
   pointer-events: none;
-  background-image:
-    linear-gradient(
-      105deg,
-      rgba(251, 248, 244, 0.93) 0%,
-      rgba(251, 248, 244, 0.80) 38%,
-      rgba(251, 248, 244, 0.30) 65%,
-      rgba(251, 248, 244, 0.04) 100%
-    );
+  background-image: linear-gradient(105deg, rgba(251, 248, 244, 0.88) 0%, rgba(251, 248, 244, 0.70) 30%, rgba(251, 248, 244, 0.15) 55%, rgba(251, 248, 244, 0.00) 70%);
 }
 
 /* ── Main Container ── */
@@ -2198,10 +2190,9 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   justify-content: flex-start;
 }
 
-/* ── Frosted Glass Panel ── */
 .home-hero-section .home-hero-panel {
-  background: rgba(252, 250, 247, 0.82);
-  backdrop-filter: blur(10px);
+  background: rgba(252, 250, 247, 0.55);
+  backdrop-filter: blur(6px);
   -webkit-backdrop-filter: blur(10px);
   border: 1px solid var(--border-light);
   border-radius: 2px;
