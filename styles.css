@@ -2174,7 +2174,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   inset: 0;
   z-index: 1;
   pointer-events: none;
-  background-image: linear-gradient(105deg, rgba(251, 248, 244, 0.88) 0%, rgba(251, 248, 244, 0.70) 30%, rgba(251, 248, 244, 0.15) 55%, rgba(251, 248, 244, 0.00) 70%);
+  background-image: none;
 }
 
 /* ── Main Container ── */
